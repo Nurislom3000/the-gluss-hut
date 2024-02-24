@@ -23,7 +23,7 @@
 					>
 				</div>
 				<div class="payingSystem">
-					<a href="/booking"
+					<!-- <a href="/booking"
 						><img src="../../../../public/paypal-logo 1.svg" alt="#"
 					/></a>
 					<a href="/booking"
@@ -34,7 +34,7 @@
 					/></a>
 					<a href="/booking"
 						><img src="../../../../public/bank.svg" alt="#"
-					/></a>
+					/></a> -->
 				</div>
 			</div>
 		</div>
