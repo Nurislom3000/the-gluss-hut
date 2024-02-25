@@ -23,18 +23,14 @@
 					>
 				</div>
 				<div class="payingSystem">
-					<!-- <a href="/booking"
-						><img src="../../../../public/paypal-logo 1.svg" alt="#"
+					<a href="/booking"
+						><img src="../../../public/paypal-logo 1.svg" alt="#"
 					/></a>
 					<a href="/booking"
-						><img src="../../../../public/masterCard.svg" alt="#"
+						><img src="../../../public/masterCard.svg" alt="#"
 					/></a>
-					<a href="/booking"
-						><img src="../../../../public/visa.svg" alt="#"
-					/></a>
-					<a href="/booking"
-						><img src="../../../../public/bank.svg" alt="#"
-					/></a> -->
+					<a href="/booking"><img src="../../../public/visa.svg" alt="#" /></a>
+					<a href="/booking"><img src="../../../public/bank.svg" alt="#" /></a>
 				</div>
 			</div>
 		</div>
