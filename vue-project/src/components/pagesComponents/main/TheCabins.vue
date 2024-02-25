@@ -15,12 +15,12 @@
 					</p>
 					<a href="/the-hut">Read More</a>
 				</div>
-				<img src="../../../../public/the-cabinsIMG.jpg" alt="" />
+				<img src="/the-cabinsIMG.jpg" alt="" />
 			</div>
 			<div class="frames">
-				<img src="../../../../public/frame1.jpg" alt="" />
-				<img src="../../../../public/frame2.jpg" alt="" />
-				<img src="../../../../public/frame3.jpg" alt="" />
+				<img src="/frame1.jpg" alt="" />
+				<img src="/frame2.jpg" alt="" />
+				<img src="/frame3.jpg" alt="" />
 			</div>
 		</div>
 	</div>

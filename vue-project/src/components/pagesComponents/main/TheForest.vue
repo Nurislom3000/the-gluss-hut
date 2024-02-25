@@ -2,7 +2,7 @@
 	<div class="location">
 		<div class="container">
 			<div class="map">
-				<img src="../../../../public/map.jpg" alt="" />
+				<img src="/map.jpg" alt="" />
 			</div>
 			<div class="text">
 				<div class="text-container">
