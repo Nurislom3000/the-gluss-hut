@@ -22,48 +22,48 @@ export default {
 					title: 'Mini fridge',
 				},
 				{
-					url: '../../../../public/kitchen.svg',
+					url: '/kitchen.svg',
 					title: 'Kitchenette',
 				},
 				{
-					url: '../../../../public/coffee.svg',
+					url: '/coffee.svg',
 					title: 'Coffee machine',
 				},
 				{
-					url: '../../../../public/Frame.svg',
+					url: '/Frame.svg',
 					title: 'Electric tea kettle',
 				},
 				{
-					url: '../../../../public/Frame.svg',
+					url: '/Frame.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../../public/trees.svg',
+					url: '/trees.svg',
 					title: 'Breathtaking views',
 				},
 				{
-					url: '../../../../public/temperature.svg',
+					url: '/temperature.svg',
 					title: 'Floor heating',
 				},
 				{
-					url: '../../../../public/plug.svg',
+					url: '/plug.svg',
 					title: '230V',
 				},
 				{
-					url: '../../../../public/wifi.svg',
+					url: '/wifi.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../../public/shower.svg',
+					url: '/shower.svg',
 					title: 'Shower',
 				},
 				{
-					url: '../../../../public/toilet.svg',
+					url: '/toilet.svg',
 					title: 'Flushing toilets',
 				},
 
 				{
-					url: '../../../../public/towels.svg',
+					url: '/towels.svg',
 					title: 'Bedding & towels',
 				},
 			],

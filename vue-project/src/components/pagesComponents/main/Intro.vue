@@ -37,7 +37,7 @@ export default {}
 .Intro {
 	width: 100vw;
 	height: 701px;
-	background: url('../../../../public/Intro.jpg');
+	background: url('/Intro.jpg');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-color: rgba(0, 0, 0, 0.27);
