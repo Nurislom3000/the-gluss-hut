@@ -4,7 +4,7 @@
 			<h1>Facilities</h1>
 			<div class="icons">
 				<div v-for="icon in this.icons" :key="icon.url" class="icon">
-					<img :src="JSON.stringify(icon.url)" :alt="icon.url" />
+					<img :src="icon.url" :alt="icon.url" />
 					<span>{{ icon.title }}</span>
 				</div>
 			</div>
@@ -22,48 +22,48 @@ export default {
 					title: 'Mini fridge',
 				},
 				{
-					url: '../../../public/kitchen.svg',
+					url: '../../../../public/kitchen.svg',
 					title: 'Kitchenette',
 				},
 				{
-					url: '../../../public/coffee.svg',
+					url: '../../../../public/coffee.svg',
 					title: 'Coffee machine',
 				},
 				{
-					url: '../../../public/Frame.svg',
+					url: '../../../../public/Frame.svg',
 					title: 'Electric tea kettle',
 				},
 				{
-					url: '../../../public/Frame.svg',
+					url: '../../../../public/Frame.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../public/trees.svg',
+					url: '../../../../public/trees.svg',
 					title: 'Breathtaking views',
 				},
 				{
-					url: '../../../public/temperature.svg',
+					url: '../../../../public/temperature.svg',
 					title: 'Floor heating',
 				},
 				{
-					url: '../../../public/plug.svg',
+					url: '../../../../public/plug.svg',
 					title: '230V',
 				},
 				{
-					url: '../../../public/wifi.svg',
+					url: '../../../../public/wifi.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../public/shower.svg',
+					url: '../../../../public/shower.svg',
 					title: 'Shower',
 				},
 				{
-					url: '../../../public/toilet.svg',
+					url: '../../../../public/toilet.svg',
 					title: 'Flushing toilets',
 				},
 
 				{
-					url: '../../../public/towels.svg',
+					url: '../../../../public/towels.svg',
 					title: 'Bedding & towels',
 				},
 			],
