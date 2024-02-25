@@ -1,10 +1,7 @@
 <template>
 	<div class="Intro">
 		<h1>The Area</h1>
-		<a href="#"
-			><img src="../../../../public/vector.svg" alt="#" /> Vesterborg,
-			Denmark</a
-		>
+		<a href="#"><img src="/vector.svg" alt="#" /> Vesterborg, Denmark</a>
 		<button @click="$router.push('/about-us')">get directions</button>
 	</div>
 </template>
@@ -21,7 +18,7 @@ export default {}
 	margin-top: -3%;
 	width: 100%;
 	height: 350px;
-	background-image: url('../../../../public/TheArea.jpg');
+	background-image: url('/TheArea.jpg');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-color: rgba(51, 51, 51, 60%);

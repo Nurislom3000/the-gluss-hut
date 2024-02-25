@@ -5,7 +5,7 @@
 				<h2>Lorem ipsum dolor sit amet, consectetur adipiscing...</h2>
 			</div>
 			<div class="map">
-				<img src="../../../../public/mapFillials.png" alt="#" />
+				<img src="/mapFillials.png" alt="#" />
 			</div>
 		</div>
 	</div>

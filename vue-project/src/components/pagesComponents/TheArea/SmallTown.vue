@@ -17,7 +17,7 @@
 				</p>
 			</div>
 			<div class="img">
-				<img src="../../../../public/SmallTown.jpg" alt="" />
+				<img src="/SmallTown.jpg" alt="" />
 			</div>
 		</div>
 	</div>

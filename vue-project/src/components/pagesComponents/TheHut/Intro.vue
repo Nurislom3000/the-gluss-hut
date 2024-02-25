@@ -15,7 +15,7 @@ export default {}
 	margin-top: -3%;
 	width: 100%;
 	height: 350px;
-	background-image: url('../../../../public/TheHutIntro.png');
+	background-image: url('/TheHutIntro.png');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-color: rgba(51, 51, 51, 60%);

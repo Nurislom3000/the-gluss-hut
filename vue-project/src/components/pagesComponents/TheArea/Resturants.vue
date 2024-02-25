@@ -2,7 +2,7 @@
 	<div class="Resturants">
 		<div class="container">
 			<div class="img">
-				<img src="../../../../public/Resturants.png" alt="" />
+				<img src="/Resturants.png" alt="" />
 			</div>
 			<div class="text">
 				<h2>Restaurants & shopping</h2>

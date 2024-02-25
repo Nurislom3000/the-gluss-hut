@@ -2,7 +2,7 @@
 	<div class="FarDrive">
 		<div class="container">
 			<div class="img">
-				<img src="../../../../public/FarDrive.png" alt="" />
+				<img src="/FarDrive.png" alt="" />
 			</div>
 			<div class="text">
 				<h2>Go for a drive</h2>

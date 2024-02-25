@@ -2,10 +2,10 @@
 	<div class="theOutside">
 		<div class="container">
 			<div class="img" v-if="electricCharge == false">
-				<img src="../../../../public/Outside.jpg" alt="" />
+				<img src="/Outside.jpg" alt="" />
 			</div>
 			<div class="img" v-else>
-				<img src="../../../../public/electrickCarCharge.png" alt="" />
+				<img src="/electrickCarCharge.png" alt="" />
 			</div>
 			<div class="text">
 				<h2>The Outside</h2>

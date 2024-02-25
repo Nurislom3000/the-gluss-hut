@@ -1,6 +1,6 @@
 <template>
 	<div class="map">
-		<a href="/"><img src="../../../../public/We-are-here.svg" alt="" /></a>
+		<a href="/"><img src="/We-are-here.svg" alt="" /></a>
 	</div>
 </template>
 
@@ -16,7 +16,7 @@ export default {}
 	justify-content: center;
 	align-items: center;
 	width: 100%;
-	background-image: url('../../../../public/BigMap.png');
+	background-image: url('/BigMap.png');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-color: rgba(51, 51, 51, 60%);

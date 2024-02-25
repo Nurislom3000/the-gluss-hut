@@ -2,8 +2,8 @@
 	<div class="Practicalities">
 		<div class="container">
 			<div class="img">
-				<img v-if="diner" src="../../../../public/classickDiner.webp" alt="" />
-				<img v-else src="../../../../public/Practicalities.png" alt="" />
+				<img v-if="diner" src="/classickDiner.webp" alt="" />
+				<img v-else src="/Practicalities.png" alt="" />
 			</div>
 			<div class="text">
 				<h2>Practicalities</h2>

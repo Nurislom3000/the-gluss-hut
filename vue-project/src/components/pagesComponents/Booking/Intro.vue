@@ -1,10 +1,7 @@
 <template>
 	<div class="Intro">
 		<h1>Booking</h1>
-		<a href="#"
-			><img src="../../../../public/vector.svg" alt="#" /> Vesterborg,
-			Denmark</a
-		>
+		<a href="#"><img src="/vector.svg" alt="#" /> Vesterborg, Denmark</a>
 	</div>
 </template>
 
@@ -20,7 +17,7 @@ export default {}
 	margin-top: -3%;
 	width: 100%;
 	height: 350px;
-	background-image: url('../../../../public/BookingIntro.png');
+	background-image: url('/BookingIntro.png');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-color: rgba(51, 51, 51, 60%);

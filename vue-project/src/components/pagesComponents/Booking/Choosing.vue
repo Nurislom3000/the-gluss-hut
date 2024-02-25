@@ -18,7 +18,7 @@
 									($store.state.totalPrice += section.price)
 							"
 							v-if="section.isBuy == false"
-							src="../../../../public/AddChoose.svg"
+							src="/AddChoose.svg"
 							alt=""
 						/>
 						<img
@@ -32,7 +32,7 @@
 									filterer(section.title)
 							"
 							v-else
-							src="../../../../public/Choosed.svg"
+							src="/Choosed.svg"
 							alt="#"
 							class="chosed"
 						/>

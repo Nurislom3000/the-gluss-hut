@@ -2,7 +2,7 @@
 	<div class="Vesterborg">
 		<div class="container">
 			<div class="img">
-				<img src="../../../../public/Vesterborg.jpg" alt="" />
+				<img src="/Vesterborg.jpg" alt="" />
 			</div>
 			<div class="text">
 				<h2>The Outside</h2>

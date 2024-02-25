@@ -41,9 +41,9 @@
 				</p>
 			</div>
 			<div class="img">
-				<img v-if="room == 1" src="../../../../public/TheInside.png" alt="" />
-				<img v-if="room == 2" src="../../../../public/kitchen.jpg" alt="" />
-				<img v-if="room == 3" src="../../../../public/bathroom.jpg" alt="" />
+				<img v-if="room == 1" src="/TheInside.png" alt="" />
+				<img v-if="room == 2" src="/kitchen.jpg" alt="" />
+				<img v-if="room == 3" src="/bathroom.jpg" alt="" />
 			</div>
 		</div>
 	</div>
