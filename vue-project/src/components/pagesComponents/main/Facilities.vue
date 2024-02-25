@@ -3,8 +3,8 @@
 		<div class="container">
 			<h1>Facilities</h1>
 			<div class="icons">
-				<div v-for="icon in icons" :key="icon" class="icon">
-					<img :src="icon.url" alt="#" />
+				<div v-for="icon in this.icons" :key="icon.url" class="icon">
+					<img :src="icon.url" alt="" />
 					<span>{{ icon.title }}</span>
 				</div>
 			</div>
