@@ -21,7 +21,7 @@ export default {}
 	margin-top: -3%;
 	width: 100%;
 	height: 350px;
-	background-image: url('../../../../public/AboutUsBg.png');
+	background-image: url('/AboutUsBg.png');
 	background-size: 1500px 145%;
 	background-position: center center;
 	background-repeat: no-repeat;

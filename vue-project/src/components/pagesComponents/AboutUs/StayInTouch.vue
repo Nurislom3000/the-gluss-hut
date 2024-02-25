@@ -12,13 +12,13 @@
 					</p>
 					<div class="imgs">
 						<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-							><img src="../../../../public/Instagramm.svg" alt="#"
+							><img src="/Instagramm.svg" alt="#"
 						/></a>
 						<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-							><img src="../../../../public/facebook.svg" alt="#"
+							><img src="/facebook.svg" alt="#"
 						/></a>
 						<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-							><img src="../../../../public/twitter.svg" alt="#"
+							><img src="/twitter.svg" alt="#"
 						/></a>
 					</div>
 				</div>
@@ -41,7 +41,7 @@
 			</div>
 
 			<div class="WithLove">
-				<img src="../../../../public/with-love.svg" alt="" />
+				<img src="/with-love.svg" alt="" />
 			</div>
 		</div>
 	</div>

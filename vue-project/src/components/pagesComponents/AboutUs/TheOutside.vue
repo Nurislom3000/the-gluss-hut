@@ -2,7 +2,7 @@
 	<div class="theOutside">
 		<div class="container">
 			<div class="img">
-				<img src="../../../../public/AboutUsOutside.png" alt="" />
+				<img src="/AboutUsOutside.png" alt="" />
 			</div>
 			<div class="text">
 				<h2>

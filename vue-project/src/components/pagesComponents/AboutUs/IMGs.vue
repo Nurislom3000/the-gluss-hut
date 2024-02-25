@@ -1,12 +1,12 @@
 <template>
 	<div class="IMGs">
 		<div class="head">
-			<img src="../../../../public/AboutUsIMGhead.png" alt="#" />
+			<img src="/AboutUsIMGhead.png" alt="#" />
 		</div>
 		<div class="bottom">
-			<img src="../../../../public/AboutIMGfoot1.png" alt="" />
-			<img src="../../../../public/AboutIMGfoot2.png" alt="" />
-			<img src="../../../../public/AboutIMGfoot3.png" alt="" />
+			<img src="/AboutIMGfoot1.png" alt="" />
+			<img src="/AboutIMGfoot2.png" alt="" />
+			<img src="/AboutIMGfoot3.png" alt="" />
 		</div>
 	</div>
 </template>
