@@ -10,18 +10,18 @@
 				</p>
 				<div class="socialMedia">
 					<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-						><img src="../../../../public/Instagramm.svg" alt="#"
+						><img src="/Instagramm.svg" alt="#"
 					/></a>
 					<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-						><img src="../../../../public/facebook.svg" alt="#"
+						><img src="/facebook.svg" alt="#"
 					/></a>
 					<a target="_blank" href="https://t.me/MotiveX_BestMotivation"
-						><img src="../../../../public/twitter.svg" alt="#"
+						><img src="/twitter.svg" alt="#"
 					/></a>
 				</div>
 			</div>
 			<div class="img">
-				<img src="../../../../public/book-a-hut.jpg" alt="#" />
+				<img src="/book-a-hut.jpg" alt="#" />
 				<div @click="$router.push('/booking')" class="booking">
 					<div class="book-now">
 						<button>book now</button>

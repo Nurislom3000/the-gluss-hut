@@ -1,7 +1,7 @@
 <template>
 	<div class="overlook">
-		<img class="dontNead" src="../../../../public/overlook2.png" alt="#" />
-		<img src=" ../../../../public/overlook1.jpg" alt="#" />
+		<img class="dontNead" src="/overlook2.png" alt="#" />
+		<img src="/overlook1.jpg" alt="#" />
 		<a href="/about-us"
 			><div class="srcToInfo">
 				<span>More about us</span>
