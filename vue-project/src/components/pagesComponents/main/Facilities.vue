@@ -18,7 +18,7 @@ export default {
 		return {
 			icons: [
 				{
-					url: '../../../public/fridge.svg',
+					url: '/fridge.svg',
 					title: 'Mini fridge',
 				},
 				{
