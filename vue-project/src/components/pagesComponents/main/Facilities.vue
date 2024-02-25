@@ -18,11 +18,11 @@ export default {
 		return {
 			icons: [
 				{
-					url: '../../../../public/fridge 1.svg',
+					url: '../../../../public/fridge.svg',
 					title: 'Mini fridge',
 				},
 				{
-					url: '../../../../public/kitchen 1.svg',
+					url: '../../../../public/kitchen.svg',
 					title: 'Kitchenette',
 				},
 				{
@@ -30,40 +30,40 @@ export default {
 					title: 'Coffee machine',
 				},
 				{
-					url: '../../../../public/Frame 17.svg',
+					url: '../../../../public/Frame.svg',
 					title: 'Electric tea kettle',
 				},
 				{
-					url: '../../../../public/Frame 17.svg',
+					url: '../../../../public/Frame.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../../public/trees 1.svg',
+					url: '../../../../public/trees.svg',
 					title: 'Breathtaking views',
 				},
 				{
-					url: '../../../../public/temperature 1.svg',
+					url: '../../../../public/temperature.svg',
 					title: 'Floor heating',
 				},
 				{
-					url: '../../../../public/plug 1.svg',
+					url: '../../../../public/plug.svg',
 					title: '230V',
 				},
 				{
-					url: '../../../../public/wifi 1.svg',
+					url: '../../../../public/wifi.svg',
 					title: 'Parking',
 				},
 				{
-					url: '../../../../public/shower 1.svg',
+					url: '../../../../public/shower.svg',
 					title: 'Shower',
 				},
 				{
-					url: '../../../../public/toilet 1.svg',
+					url: '../../../../public/toilet.svg',
 					title: 'Flushing toilets',
 				},
 
 				{
-					url: '../../../../public/towels 1.svg',
+					url: '../../../../public/towels.svg',
 					title: 'Bedding & towels',
 				},
 			],
